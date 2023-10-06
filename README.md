@@ -7,3 +7,8 @@
 - `git add .` stage files ready to be committed 
 - `git commit -m "message"` commit changes ready to be pushed 
 - `git push` 
+
+- `git branch branch-name` create new branch
+- `git checkout branch-name` switch to new branch
+- OR
+- `git checkout -b branch-name`
