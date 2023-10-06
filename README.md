@@ -12,3 +12,4 @@
 - `git checkout branch-name` switch to new branch
 - OR
 - `git checkout -b branch-name`
+- `git push origin branch-name` 
